@@ -1,2 +1,1 @@
 # registro-voti
-Barbara Luconi
